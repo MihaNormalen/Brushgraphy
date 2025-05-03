@@ -1,6 +1,6 @@
 
 
-The mini_Brushograph was born out of the idea of creating an affordable brush plotter for workshops, which then evolved into a full-fledged project involving many participants. https://wiki.sgmk-ssam.ch/wiki/Brushograph#...or
+The mini_Brushograph was born out of the idea of creating an affordable brush plotter for workshops and entusiast, which then evolved into a full-fledged project involving many participants. https://wiki.sgmk-ssam.ch/wiki/Brushograph#...or
 
 The goal was to develop a device for less than €50 that would work on all operating systems.
 
