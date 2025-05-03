@@ -6,7 +6,7 @@ The goal was to develop a device for less than €50 that would work on all oper
 
 The final result of everything is that the brushograph will be usable via a mobile phone, meaning that a personal computer is not needed to run the workshop.
 
-The Mini Brushograph is a derivative of an existing mini plotter https://www.thingiverse.com/thing:4579436. 
+The mini_Brushograph is a derivative of an existing mini plotter https://www.thingiverse.com/thing:4579436. 
 
 Several contributors played a key role in its realization:
 
