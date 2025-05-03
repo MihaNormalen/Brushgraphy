@@ -18,6 +18,6 @@ Jurij Podgoršek adapted the fluidNc firmware for unipolar motor drivers https:/
 
 Dominik Mahnič served as the project lead and worked on modifying 3D models.
 
-Marc Duseiller contributed with a DIY circuit and tested system functionality https://github.com/dusjagr/Brushograph_PCB.
+beta tester Marc Duseiller contributed a DIY circuit https://github.com/dusjagr/Brushograph_PCB.
 
 This collaborative effort resulted in a functional and accessible Mini Brushograph! https://app.assembla.com/spaces/dominik-mahnic/wiki/Mini--opi-ograf
