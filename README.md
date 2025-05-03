@@ -20,4 +20,4 @@ Dominik Mahnič served as the project lead and worked on modifying 3D models.
 
 beta tester Marc Duseiller contributed a DIY circuit https://github.com/dusjagr/Brushograph_PCB.
 
-This collaborative effort resulted in a functional and accessible Mini Brushograph! https://app.assembla.com/spaces/dominik-mahnic/wiki/Mini--opi-ograf
+This collaborative effort resulted in a functional and accessible mini_Brushograph! https://app.assembla.com/spaces/dominik-mahnic/wiki/Mini--opi-ograf
