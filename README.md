@@ -12,7 +12,7 @@ Several contributors played a key role in its realization:
 
 Vid Vidmar as creator image to gcode script. Pero Čopić worked on coding the program copicograf.py. https://github.com/veselinovicp/brushograph
 
-Matic Potočnik developed the web application Brushograph (in making).
+Matic Potočnik developed the web application Brushograph https://brushograph.pro
 
 Jurij Podgoršek adapted the fluidNc firmware for unipolar motor drivers https://git.kompot.si/g1smo/FluidNC
 
